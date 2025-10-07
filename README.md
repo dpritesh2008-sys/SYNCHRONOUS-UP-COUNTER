@@ -45,6 +45,7 @@ Developed by: RegisterNumber:
 
 **RESULTS**
 logical diagram
-<img width="1920" height="1020" alt="sync(1)" src="https://github.com/user-attachments/assets/ea183d3b-779b-4f0c-9577-231f54f31851" />
+<img width="1920" height="1020" alt="siso logical" src="https://github.com/user-attachments/assets/dbd77331-f589-44bb-910d-30ac7d4149fd" />
 clock pulse
-<img width="1920" height="1020" alt="sync(1)pulse" src="https://github.com/user-attachments/assets/8590e7cd-b4e2-4793-bfb3-4f4a0484db6d" />
+<img width="1920" height="1020" alt="siso pulse" src="https://github.com/user-attachments/assets/c7142f6e-7038-47e0-87a0-820533ae827a" />
+
