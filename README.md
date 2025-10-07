@@ -44,3 +44,7 @@ Developed by: RegisterNumber:
 **TRUTH TABLE**
 
 **RESULTS**
+logical diagram
+<img width="1920" height="1020" alt="sync(1)" src="https://github.com/user-attachments/assets/ea183d3b-779b-4f0c-9577-231f54f31851" />
+clock pulse
+<img width="1920" height="1020" alt="sync(1)pulse" src="https://github.com/user-attachments/assets/8590e7cd-b4e2-4793-bfb3-4f4a0484db6d" />
